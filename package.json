@@ -19,5 +19,8 @@
   "homepage": "https://github.com/ahmedibrahimhassan654/Nodejs-Express---unit-testing-integration-tests-with-Jest#readme",
   "dependencies": {
     "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
   }
 }
